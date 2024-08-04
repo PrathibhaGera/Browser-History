@@ -1,0 +1,27 @@
+li {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.list-item {
+  display: flex;
+}
+
+.list-item p {
+  margin: 15px;
+  font-family: 'roboto';
+}
+
+.logo-url {
+  margin: 10px;
+}
+.del-icon {
+  width: 25px;
+}
+.del-el {
+  background-color: #fff;
+  margin-right: 20px;
+  border: none;
+}
